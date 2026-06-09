@@ -228,7 +228,7 @@ void deleteObject() {
     printf("Object Not Found\n");
 }
 
-/* Modify Object */
+// Modify Object
 void modifyObject() {
 
     int id;
@@ -285,7 +285,7 @@ void modifyObject() {
     printf("Object Not Found\n");
 }
 
-// Main 
+
 int main() {
 
     initializeCanvas();
